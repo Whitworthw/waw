@@ -1,0 +1,29 @@
+{
+  "name": "waw",
+  "version": "1.0.0",
+  "description": "Personal website for Alex Whitworth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whitworthw/waw.git"
+  },
+  "author": "Alex Whitworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whitworthw/waw/issues"
+  },
+  "homepage": "https://github.com/Whitworthw/waw#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "express": "^4.16.2",
+    "google-closure-compiler": "^20171112.0.0",
+    "google-closure-library": "^20171112.0.0",
+    "google-closure-templates": "^20150410.0.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {}
+}
